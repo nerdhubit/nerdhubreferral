@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://nerdhubreferral.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://vps2.lucamonte.it/tgbot/execute.php' //'https://nerdhubreferral.herokuapp.com/execute.php';
 $BOT_TOKEN = '764493222:AAGsLH24SMwNrX-hRVzjsA5YjWbmSfdhLlo';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
