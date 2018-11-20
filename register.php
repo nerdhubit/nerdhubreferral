@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://www.nerdhub.it/telegrambot/execute.php';
+$WEBHOOK_URL = 'https://nhref.herokuapp.com/execute.php';
 $BOT_TOKEN = '792894187:AAG8OLY3I8U0byw3F7N9kGvdlANg5a67PRU';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
